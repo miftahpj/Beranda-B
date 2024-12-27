@@ -186,7 +186,7 @@
 <style>
 .parallax {
 
-  background-image: url('/assets/home.jpg');
+  background-image: url('/assets/home.webp');
 
   height: 80vh;
   width: 100%;
